@@ -1,0 +1,7 @@
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\bin\Debug\Week1_Files.exe.config
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\bin\Debug\Week1_Files.exe
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\bin\Debug\Week1_Files.pdb
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\obj\Debug\Week1_Files.csprojAssemblyReference.cache
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\obj\Debug\Week1_Files.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\obj\Debug\Week1_Files.exe
+G:\examples\visual_programmin_2\Week1_Files\Week1_Files\obj\Debug\Week1_Files.pdb

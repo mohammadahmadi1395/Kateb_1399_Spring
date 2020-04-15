@@ -1,0 +1,42 @@
+﻿Installing assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Uninstalling assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.
+Installing assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Installing service MyService...
+Service MyService has been successfully installed.
+Creating EventLog source MyService in log Application...
+Committing assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Uninstalling assembly 'G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.InstallLog
+   assemblypath = G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+Removing EventLog source MyService.
+Service MyService is being removed from the system...
+Service MyService was successfully removed from the system.

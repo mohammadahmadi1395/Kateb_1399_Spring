@@ -1,0 +1,10 @@
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\bin\Debug\FileReadWriteUI.exe.config
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\bin\Debug\FileReadWriteUI.exe
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\bin\Debug\FileReadWriteUI.pdb
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.Form1.resources
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.Properties.Resources.resources
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.csproj.GenerateResource.cache
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.exe
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.pdb
+G:\examples\visual_programmin_2\Week1_Files\FileReadWriteUI\obj\Debug\FileReadWriteUI.csprojAssemblyReference.cache

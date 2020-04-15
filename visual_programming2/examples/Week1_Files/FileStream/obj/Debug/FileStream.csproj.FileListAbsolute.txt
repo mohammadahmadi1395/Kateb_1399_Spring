@@ -1,0 +1,7 @@
+G:\examples\visual_programmin_2\Week1_Files\FileStream\bin\Debug\FileStream.exe.config
+G:\examples\visual_programmin_2\Week1_Files\FileStream\bin\Debug\FileStream.exe
+G:\examples\visual_programmin_2\Week1_Files\FileStream\bin\Debug\FileStream.pdb
+G:\examples\visual_programmin_2\Week1_Files\FileStream\obj\Debug\FileStream.csprojAssemblyReference.cache
+G:\examples\visual_programmin_2\Week1_Files\FileStream\obj\Debug\FileStream.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\Week1_Files\FileStream\obj\Debug\FileStream.exe
+G:\examples\visual_programmin_2\Week1_Files\FileStream\obj\Debug\FileStream.pdb

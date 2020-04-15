@@ -1,0 +1,6 @@
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\bin\Debug\CLProject.dll
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\bin\Debug\CLProject.pdb
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\obj\Debug\CLProject.csprojAssemblyReference.cache
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\obj\Debug\CLProject.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\obj\Debug\CLProject.dll
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\CLProject\obj\Debug\CLProject.pdb

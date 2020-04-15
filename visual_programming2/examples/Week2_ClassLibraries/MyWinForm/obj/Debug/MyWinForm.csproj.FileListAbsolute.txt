@@ -1,0 +1,13 @@
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\bin\Debug\MyWinForm.exe.config
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\bin\Debug\MyWinForm.exe
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\bin\Debug\MyWinForm.pdb
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\bin\Debug\CLProject.dll
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\bin\Debug\CLProject.pdb
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.csprojAssemblyReference.cache
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.Form1.resources
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.Properties.Resources.resources
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.csproj.GenerateResource.cache
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.csproj.CopyComplete
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.exe
+G:\examples\visual_programmin_2\New folder\Week2_ClassLibraries\MyWinForm\obj\Debug\MyWinForm.pdb

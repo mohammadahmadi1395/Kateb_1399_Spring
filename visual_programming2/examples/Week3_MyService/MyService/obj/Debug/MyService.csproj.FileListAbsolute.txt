@@ -1,0 +1,9 @@
+G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe.config
+G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.exe
+G:\examples\visual_programmin_2\MyService\MyService\bin\Debug\MyService.pdb
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.MyService.resources
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.ProjectInstaller.resources
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.csproj.GenerateResource.cache
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.exe
+G:\examples\visual_programmin_2\MyService\MyService\obj\Debug\MyService.pdb
