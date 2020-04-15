@@ -4,9 +4,9 @@
 ## Subjects
 ### **[ObjectOrientedProgramming_Using_CPlusPlus](#object-oriented-programming-using_cplusplus)**<br>
 </br></br></br></br>
-### [ObjectOrientedProgramming_Using_CPlusPlus]()
+### ObjectOrientedProgramming_Using_CPlusPlus
 #### [TextBook:]()
-[[C++ How to Program, 10th Edition.pdf]]()</br>
+[[C++ How to Program, 10th Edition.pdf]]()
 [[Farsi_Book.pdf]]()</br></br>
 #### [CoursePolicy]()</br></br>
 #### [TeachingImprovementPlan]()</br></br>
