@@ -1,0 +1,10 @@
+G:\examples\visual_programmin_1\HelloWorldUI\bin\Debug\HelloWorldUI.exe.config
+G:\examples\visual_programmin_1\HelloWorldUI\bin\Debug\HelloWorldUI.exe
+G:\examples\visual_programmin_1\HelloWorldUI\bin\Debug\HelloWorldUI.pdb
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.csprojAssemblyReference.cache
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.Form1.resources
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.Properties.Resources.resources
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.csproj.GenerateResource.cache
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.exe
+G:\examples\visual_programmin_1\HelloWorldUI\obj\Debug\HelloWorldUI.pdb

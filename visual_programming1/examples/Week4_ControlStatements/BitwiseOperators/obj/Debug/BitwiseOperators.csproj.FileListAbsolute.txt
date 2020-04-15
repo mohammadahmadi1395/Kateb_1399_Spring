@@ -1,0 +1,7 @@
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\obj\Debug\BitwiseOperators.csprojAssemblyReference.cache
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\obj\Debug\BitwiseOperators.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+G:\examples\visual_programmin_1\Week4_ControlStatements\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

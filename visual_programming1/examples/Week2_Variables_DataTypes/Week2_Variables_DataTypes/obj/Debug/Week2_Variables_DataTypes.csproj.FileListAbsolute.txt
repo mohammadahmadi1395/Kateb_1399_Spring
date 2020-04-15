@@ -1,0 +1,7 @@
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\bin\Debug\Week2_Variables_DataTypes.exe.config
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\bin\Debug\Week2_Variables_DataTypes.exe
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\bin\Debug\Week2_Variables_DataTypes.pdb
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\obj\Debug\Week2_Variables_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\obj\Debug\Week2_Variables_DataTypes.exe
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\obj\Debug\Week2_Variables_DataTypes.pdb
+C:\Users\SELECT LAPTOP\source\repos\Week2_Variables_DataTypes\Week2_Variables_DataTypes\obj\Debug\Week2_Variables_DataTypes.csprojAssemblyReference.cache

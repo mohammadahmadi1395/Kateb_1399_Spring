@@ -1,0 +1,7 @@
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\bin\Debug\Week3_Namespace.exe.config
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\bin\Debug\Week3_Namespace.exe
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\bin\Debug\Week3_Namespace.pdb
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\obj\Debug\Week3_Namespace.csprojAssemblyReference.cache
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\obj\Debug\Week3_Namespace.csproj.CoreCompileInputs.cache
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\obj\Debug\Week3_Namespace.exe
+G:\examples\visual_programmin_1\Week3_Namespace\Week3_Namespace\obj\Debug\Week3_Namespace.pdb
