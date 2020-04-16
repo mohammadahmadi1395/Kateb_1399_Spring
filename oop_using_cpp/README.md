@@ -1,7 +1,7 @@
 ## Object Oriented Programming Using C++
 ### Text Books:
-[[C++ How to Program, 10th Edition.pdf]](oop_using_cpp/lectures/books/C%2B%2B%20How%20to%20Program%2C%2010th%20Edition.pdf) 
-| [[Farsi_Book.pdf]](oop_using_cpp/lectures/books/Farsi_Book.pdf)</br>
+[[C++ How to Program, 10th Edition.pdf]](oop_using_cpp/textbooks/C%2B%2B%20How%20to%20Program%2C%2010th%20Edition.pdf) 
+| [[Farsi_Book.pdf]](oop_using_cpp/textbooks/Farsi_Book.pdf)</br>
 ### Course Policy
 [[course policy]](oop_using_cpp/plans/OOPUsingCPP_CoursePolicy_MohammadAhmadi.pdf)
 ### Teaching Improvement Plan

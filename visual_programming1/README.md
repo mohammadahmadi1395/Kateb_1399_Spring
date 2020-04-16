@@ -1,6 +1,6 @@
 ## Visual Programming1 (C#_1)
 ### Text Books:
-[[Benjamin Perkins, Jacob Vibe Hammer, Jon D. Reid - Beginning C_ 7 Programming with Visual Studio  2017 (2018, Wrox).pdf]](visual_programming1/lectures/books/Benjamin%20Perkins%2C%20Jacob%20Vibe%20Hammer%2C%20Jon%20D.%20Reid%20-%20Beginning%20C_%207%20Programming%20with%20Visual%20Studio%20%202017%20(2018%2C%20Wrox).pdf)
+[[Beginning C# 7 Programming with Visual Studio  2017 (2018, Wrox).pdf]](visual_programming1/textbooks/Benjamin%20Perkins%2C%20Jacob%20Vibe%20Hammer%2C%20Jon%20D.%20Reid%20-%20Beginning%20C_%207%20Programming%20with%20Visual%20Studio%20%202017%20(2018%2C%20Wrox).pdf)
 </br>
 ### Course Policy
 [[course policy]](visual_programming1/plans/VisualProgramming1_CoursePolicy_MohammadAhmadi.pdf)
