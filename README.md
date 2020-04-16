@@ -13,7 +13,7 @@
 ### Course Policy
 [[course policy]](oop_using_cpp/plans/OOPUsingCPP_CoursePolicy_MohammadAhmadi.pdf)
 ### Teaching Improvement Plan
-[[teaching improvement plan](oop_using_cpp/plans/TeachingImprovementPlan_Spring_1399_Mohammad_Ahmadi.pdf)</br></br>
+[[teaching improvement plan]](oop_using_cpp/plans/TeachingImprovementPlan_Spring_1399_Mohammad_Ahmadi.pdf)</br></br>
 ### Session 1:
 [Slide](oop_using_cpp/lectures/slides/001.ppt) 
 | [Homework GeneralNotes](oop_using_cpp/homeworks/general_notes.pdf) 
@@ -46,21 +46,18 @@
 </br></br>
 ### Session 1:
 [pdf_file](visual_programming1/lectures/slides/week1.pdf) 
-| [pptx_file](visual_programming1/lectures/slides/week1.pptx) 
 | [Homework](visual_programming1/homeworks/homework1.pdf) 
 | [examples](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming1/examples/Week1_Start%26HelloWorld) 
 | <a href="https://www.youtube.com/watch?v=biZJJ-_VTRU&list=PLEfNg8fGQjuQiYPmh0GC1BVt0TMeKfLj_&index=1" target="_blank">Video</a>
 </br>
 ### Session 2:
 [pdf_file](visual_programming1/lectures/slides/week2.pdf) 
-| [pptx_file](visual_programming1/lectures/slides/week2.pptx) 
 | [Homework](visual_programming1/homeworks/homework2.pdf) 
 | [examples](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming1/examples/Week2_Variables_DataTypes) 
 | <a href="https://www.youtube.com/watch?v=KupjXVVDurg&list=PLEfNg8fGQjuQiYPmh0GC1BVt0TMeKfLj_&index=2" target="_blank">Video</a>
 </br>
 ### Session 3:
 [pdf_file](visual_programming1/lectures/slides/week3.pdf) 
-| [pptx_file](visual_programming1/lectures/slides/week3.pptx) 
 | [Homework](visual_programming1/homeworks/homework3.pdf) 
 | [examples_1](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming1/examples/Week3_Namespace) 
 | [examples 2](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming1/examples/Week4_ControlStatements)
@@ -77,24 +74,21 @@
 [[Teaching Improvement Plan]](visual_programming2/plans/TeachingImprovementPlan_Spring_1399_Mohammad_Ahmadi.pdf)
 </br></br>
 ### Session 1:
-[Slide](visual_programming2/lectures/slides/week1.pptx) 
-| [Homework_word](visual_programming2/homeworks/homeworkC%232-1.pdf) 
-| [Homework_pdf](visual_programming2/homeworks/homeworkC%232-1.pdf)
+[Slide](visual_programming2/lectures/slides/week1.pdf) 
+| [Homework](visual_programming2/homeworks/homeworkC%232-1.pdf)
 | [examples](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming2/examples/Week1_Files) 
 | <a href="https://www.youtube.com/watch?v=LuVp6dDCCX0&list=PLEfNg8fGQjuQG8J1IK2Qo-JB8XXlZz9j8&index=1" target="_blank">Video_1</a>
 | <a href="https://www.youtube.com/watch?v=sNXT5N0Y5Qs&list=PLEfNg8fGQjuQG8J1IK2Qo-JB8XXlZz9j8&index=2" target="_blank">Video_2</a>
 </br>
 ### Session 2:
-[Slide](visual_programming2/lectures/slides/week2.pptx) 
-| [Homework_word](visual_programming2/homeworks/homeworkC%232-2.pdf) 
-| [Homework_pdf](visual_programming2/homeworks/homeworkC%232-2.pdf) 
+[Slide](visual_programming2/lectures/slides/week2.pdf) 
+| [Homework](visual_programming2/homeworks/homeworkC%232-2.pdf) 
 | [examples](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming2/examples/Week2_ClassLibraries) 
 | <a href="https://www.youtube.com/watch?v=2gTKDRsWZWw&list=PLEfNg8fGQjuQG8J1IK2Qo-JB8XXlZz9j8&index=3" target="_blank">Video</a>
 </br>
 ### Session 3:
-[Slide](visual_programming2/lectures/slides/week2.pptx) 
-| [Homework_word](visual_programming2/homeworks/homeworkC%232-3.pdf) 
-| [Homework_pdf](visual_programming2/homeworks/homeworkC%232-3.pdf)
+[Slide](visual_programming2/lectures/slides/week2.pdf) 
+| [Homework](visual_programming2/homeworks/homeworkC%232-3.pdf)
 | [examples](https://github.com/mohammadahmadi1395/Kateb_1399_Spring/tree/master/visual_programming2/examples/Week3_MyService) 
 | <a href="https://www.youtube.com/watch?v=2gTKDRsWZWw&list=PLEfNg8fGQjuQG8J1IK2Qo-JB8XXlZz9j8&index=3" target="_blank">Video</a>
 </br>
