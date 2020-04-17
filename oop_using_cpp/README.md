@@ -7,20 +7,20 @@
 ### Teaching Improvement Plan
 [[teaching improvement plan]](plans/TeachingImprovementPlan_Spring_1399_Mohammad_Ahmadi.pdf)</br></br>
 ### Session 1:
-[Slide](lectures/slides/001.pdf) 
+[Slide](lectures/001.pdf) 
 | [Homework GeneralNotes](homeworks/general_notes.pdf) 
 | [Homework](homeworks/week1_chapter2.pdf)
 | [examples](examples/001_chapter2) 
 | <a href="https://www.youtube.com/watch?v=oNEp9iqCmVs&list=PLEfNg8fGQjuQkh6ywnv8dvaHh0hXfD28M&index=3" target="_blank">Video</a>
 </br>
 ### Session 2:
-[Slide](lectures/slides/002.pdf) 
+[Slide](lectures/002.pdf) 
 | [Homework](homeworks/week2_chapter4.pdf) 
 | [examples](examples/002_chapter4) 
 | <a href="https://www.youtube.com/watch?v=0ddW20h3YZg&list=PLEfNg8fGQjuQkh6ywnv8dvaHh0hXfD28M&index=1" target="_blank">Video</a>
 </br>
 ### Session 3:
-[Slide](lectures/slides/003.pdf) 
+[Slide](lectures/003.pdf) 
 | [Homework](homeworks/week3_chapter5.pdf) 
 | [examples](examples/003_chapter5) 
 | <a href="https://www.youtube.com/watch?v=oqbosO7n5KA&list=PLEfNg8fGQjuQkh6ywnv8dvaHh0hXfD28M&index=2" target="_blank">Video</a>
