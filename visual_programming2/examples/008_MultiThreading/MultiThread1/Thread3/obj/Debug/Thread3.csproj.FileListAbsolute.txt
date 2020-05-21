@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\bin\Debug\Thread3.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\bin\Debug\Thread3.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\bin\Debug\Thread3.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\obj\Debug\Thread3.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\obj\Debug\Thread3.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\obj\Debug\Thread3.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\MultiThread1\Thread3\obj\Debug\Thread3.pdb

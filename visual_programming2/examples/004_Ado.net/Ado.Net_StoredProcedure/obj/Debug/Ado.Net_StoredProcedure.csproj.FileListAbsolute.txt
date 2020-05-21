@@ -1,0 +1,11 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\bin\Debug\Ado.Net_StoredProcedure.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\bin\Debug\Ado.Net_StoredProcedure.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\bin\Debug\Ado.Net_StoredProcedure.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.Form1.resources
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.Properties.Resources.resources
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.csproj.GenerateResource.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\004_Ado.net\Ado.Net_StoredProcedure\obj\Debug\Ado.Net_StoredProcedure.Form2.resources

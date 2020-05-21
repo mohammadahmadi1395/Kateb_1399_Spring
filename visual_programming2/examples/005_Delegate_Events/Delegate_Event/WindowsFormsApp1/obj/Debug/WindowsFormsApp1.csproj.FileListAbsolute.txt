@@ -1,0 +1,10 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

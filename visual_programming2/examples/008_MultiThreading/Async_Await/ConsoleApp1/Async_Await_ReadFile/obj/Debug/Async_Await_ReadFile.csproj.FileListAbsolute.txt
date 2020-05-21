@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\bin\Debug\Async_Await_ReadFile.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\bin\Debug\Async_Await_ReadFile.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\bin\Debug\Async_Await_ReadFile.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\obj\Debug\Async_Await_ReadFile.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\obj\Debug\Async_Await_ReadFile.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\obj\Debug\Async_Await_ReadFile.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\008_MultiThreading\Async_Await\ConsoleApp1\Async_Await_ReadFile\obj\Debug\Async_Await_ReadFile.pdb

@@ -1,0 +1,7 @@
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\bin\Debug\BitArray_Project.exe.config
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\bin\Debug\BitArray_Project.exe
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\bin\Debug\BitArray_Project.pdb
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\obj\Debug\BitArray_Project.csprojAssemblyReference.cache
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\obj\Debug\BitArray_Project.csproj.CoreCompileInputs.cache
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\obj\Debug\BitArray_Project.exe
+C:\Users\SELECT LAPTOP\source\repos\Collections\BitArray_Project\obj\Debug\BitArray_Project.pdb

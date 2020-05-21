@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\bin\Debug\Console_Loop.exe.config
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\bin\Debug\Console_Loop.exe
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\bin\Debug\Console_Loop.pdb
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\obj\Debug\Console_Loop.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\obj\Debug\Console_Loop.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\obj\Debug\Console_Loop.exe
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Console_Loop\obj\Debug\Console_Loop.pdb

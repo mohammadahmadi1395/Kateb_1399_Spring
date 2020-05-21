@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\obj\Debug\Generic_Type_Constraint.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\obj\Debug\Generic_Type_Constraint.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\bin\Debug\Generic_Type_Constraint.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\bin\Debug\Generic_Type_Constraint.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\bin\Debug\Generic_Type_Constraint.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\obj\Debug\Generic_Type_Constraint.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Type_Constraint\obj\Debug\Generic_Type_Constraint.pdb

@@ -1,0 +1,10 @@
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\bin\Debug\Loop.exe.config
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\bin\Debug\Loop.exe
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\bin\Debug\Loop.pdb
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.Form1.resources
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.Properties.Resources.resources
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.csproj.GenerateResource.cache
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.exe
+G:\university\Kateb_1399_Spring\visual_programming1\examples\Week4_ControlStatements\Loop\Loop\obj\Debug\Loop.pdb

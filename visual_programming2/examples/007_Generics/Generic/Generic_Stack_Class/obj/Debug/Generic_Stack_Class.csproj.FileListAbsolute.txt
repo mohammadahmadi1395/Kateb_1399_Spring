@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\bin\Debug\Generic_Stack_Class.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\bin\Debug\Generic_Stack_Class.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\bin\Debug\Generic_Stack_Class.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\obj\Debug\Generic_Stack_Class.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\obj\Debug\Generic_Stack_Class.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\obj\Debug\Generic_Stack_Class.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\007_Generics\Generic\Generic_Stack_Class\obj\Debug\Generic_Stack_Class.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\bin\Debug\Delegate_Event.exe.config
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\bin\Debug\Delegate_Event.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\bin\Debug\Delegate_Event.pdb
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\obj\Debug\Delegate_Event.csprojAssemblyReference.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\obj\Debug\Delegate_Event.csproj.CoreCompileInputs.cache
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\obj\Debug\Delegate_Event.exe
+G:\university\Kateb_1399_Spring\visual_programming2\examples\005_Delegate_Events\Delegate_Event\Delegate_Event\obj\Debug\Delegate_Event.pdb
